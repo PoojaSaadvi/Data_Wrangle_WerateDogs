@@ -1,3 +1,4 @@
+# Accomplished Steps
 * Gathering Data
 * Assessing Data for this Project
 * Cleaning Data for this Project
